@@ -1,7 +1,6 @@
 ﻿using SimUDuck.Interfaces;
 using System;
-using System.Collections.Generic;
-using System.Text;
+
 
 namespace SimUDuck.Patos
 {
@@ -24,7 +23,7 @@ namespace SimUDuck.Patos
 
         public void Voar()
         {
-            Console.WriteLine("Pato Cabeca Vermelha está grasnando");
+            Console.WriteLine("Pato Cabeca Vermelha está voando");
         }
     }
 }

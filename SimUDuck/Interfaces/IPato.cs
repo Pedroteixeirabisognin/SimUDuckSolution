@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SimUDuck.Interfaces
 {
-    interface IPato
+    public interface IPato
     {
         void Grasnar();
         void Voar();
